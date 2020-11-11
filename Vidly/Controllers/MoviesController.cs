@@ -13,6 +13,7 @@ namespace Vidly.Controllers
         public ActionResult Random()
         {
             return View();
+           
 
             
         }
